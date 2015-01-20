@@ -1,1 +1,1 @@
-http://trapple.github.io/sandbox-jspm/
+http://trapple.github.io/sandbox-jspm/public/
