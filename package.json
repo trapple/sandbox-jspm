@@ -17,7 +17,8 @@
   },
   "jspm": {
     "directories": {
-      "baseURL": "public"
+      "baseURL": "public",
+      "lib": "public/scripts"
     },
     "dependencies": {
       "jquery": "^2.1.3"
