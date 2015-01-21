@@ -1,3 +1,6 @@
-import $ from 'jqeury';
+import $ from 'jquery';
 
-console.log('app.js loaded');
+console.log('main.js loaded');
+console.log($);
+
+$('h1').text('hello jspm!!');
